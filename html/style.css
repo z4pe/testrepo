@@ -1,7 +1,12 @@
-h1{color: brown; font-family: fontpacific; text-shadow: 2px 2px 0 black ;}
+h1{color:dodgerblue; margin-bottom:10px; padding-bottom: 5px; border-bottom: darkslategray solid 3px; brown; font-family: fontpacific; text-shadow: 2px 2px 0 black ;}
 h2{color: goldenrod; weight: 15px; font-family: fontpacific;}
 h3{color:greenyellow; weight: 15px; font-family: fontpacific;}
-body {margin: 50px 200px 50px 200px;}
+body {margin: 50px 10% 50px 10%;}
 p{color: gray; font-size: 18px;}
-img {height: 150px; border-style: solid; border-size: 5px; border-color: firebrick;}
+img {height: 150px; border: 3px; border-style: solid; border-color: rgb(61, 0, 0); margin: 1%; width: 9.8%;}
 @font-face {font-family: fontpacific; src: url(Pacifico-Regular.ttf);}
+#custom-id {color: blue; text-shadow: 2px 2px 0 rgb(0, 255, 76) ;}
+.content {color: cornflowerblue; font-size: 16px; font-family: 'Courier New', Courier, monospace; font-weight: 400; text-transform: uppercase;}
+.bold {font-weight: bold; color: darkblue;}
+.img-div{position: relative; background-color: darkolivegreen; border: 6px darkorange;}
+#img1 {position: absolute;}
