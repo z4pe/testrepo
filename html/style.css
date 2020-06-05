@@ -1,7 +1,7 @@
-h1{color: brown; font-family: fontpacific; text-shadow:2px 2px 5px rgb(1, 2, 2);}
+h1{color: brown; font-family: fontpacific; text-shadow: 2px 2px 0 black ;}
 h2{color: goldenrod; weight: 15px; font-family: fontpacific;}
 h3{color:greenyellow; weight: 15px; font-family: fontpacific;}
-
+body {margin: 50px 200px 50px 200px;}
 p{color: gray; font-size: 18px;}
-img {width: 120px; border-style: solid; border-size: 5px; border-color: firebrick;}
+img {height: 150px; border-style: solid; border-size: 5px; border-color: firebrick;}
 @font-face {font-family: fontpacific; src: url(Pacifico-Regular.ttf);}
