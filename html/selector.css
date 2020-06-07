@@ -1,0 +1,7 @@
+
+.login-div button {box-shadow: 3px 3px 4px;}
+.login-div button:hover {box-shadow: -3px -3px 4px;}
+
+ul li:last-child {font-family: fantasy; text-decoration: underline;}
+ul li:first-child {color: firebrick;}
+ul li:nth-child(2){color: greenyellow;}
